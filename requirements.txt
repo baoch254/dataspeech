@@ -6,3 +6,7 @@ demucs
 transformers
 accelerate
 bitsandbytes
+vinorm
+underthesea
+eng_to_ipa
+viphoneme
